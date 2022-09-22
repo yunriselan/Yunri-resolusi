@@ -1,0 +1,8 @@
+RENCANA BELAJAR YUNRI
+
+- HTML
+- Javascript
+  *ES6
+  *Frameworks javascript
+- PHP Frameworks
+- Web Programming
