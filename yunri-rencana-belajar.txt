@@ -5,6 +5,7 @@ RENCANA BELAJAR YUNRI
   *ES6
   *Frameworks javascript
    ^Vue
+   ^React
 - Struktur data dasar
 - PHP Frameworks
   ^Laravel
